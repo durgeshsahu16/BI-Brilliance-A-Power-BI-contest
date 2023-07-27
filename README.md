@@ -1,5 +1,8 @@
 # BI-Brilliance-A-Power-BI-contest
 The "FEBS IIT Bhubaneswar Power BI Competition Repository" is a collection of questions and solutions from an annual Power BI competition organized by FEBS at the Indian Institute of Technology (IIT) Bhubaneswar.
+
+https://unstop.com/competitions/bi-brilliance-iit-bhubaneshwar-694906
+
 **Rank 20th** *Certificate of Appreciation*
 
 Hey there! Welcome to the "FEBS IIT Bhubaneswar Power BI Competition Repository." This is where all the action went down during the thrilling Power BI competition, and I'm excited to be a part of it! I'm thrilled to share that I participated in this fantastic event and secured the 20th rank among all the talented participants from different backgrounds.
